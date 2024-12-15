@@ -1,0 +1,24 @@
+{
+    "name": "my_first_api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "",
+        "express": "node --watch index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "standard": "^17.1.2"
+    },
+    "eslintConfig": {
+        "extends": "standard"
+    },
+    "dependencies": {
+        "cors": "2.8.5",
+        "express": "^4.21.2",
+        "zod": "3.24.1"
+    }
+}
