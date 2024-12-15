@@ -1,11 +1,10 @@
 {
-    "name": "my_first_api",
+    "name": "popcorn-api",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "test": "",
         "express": "node --watch index.js"
     },
     "author": "",
